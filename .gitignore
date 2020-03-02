@@ -1,2 +1,3 @@
 /kube-prometheus.yaml
 .vscode/
+.idea
